@@ -1,2 +1,2 @@
-# hostmain
+# general
 dữ liệu dùng chung
